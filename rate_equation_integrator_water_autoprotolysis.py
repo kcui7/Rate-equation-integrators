@@ -25,6 +25,7 @@ class RateEquationIntegratorTwoState(object):
     k2 (float): rate constant for reaction A + R --> P
     cA0 (float): initial concentration of A (in mol/L)
     cB0 (float): initial concentration of B (in mol/L)
+    cH0 (float): initial concentration of H+ (in mol/L)
     cOH0 (float): initial concentration of OH- (in mol/L)
     cR0 (float): initial concentration of R (in mol/L)
     """
