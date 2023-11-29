@@ -9,7 +9,7 @@ class RateEquationIntegratorTwoState(object):
     Two molecules can convert to each other, 
         A <==> B
     This reaction is characterized by the forward rate constant kAB, backward rate constant kBA, and equilibrium constant K.
-    Both A and B can react with another molecule M, forming the same product P, these reactions are IRREVERSIBLE
+    Both A and B can react with another molecule R, forming the same product P, these reactions are IRREVERSIBLE
         A + R --> P  k1
         B + R --> P  k2
 
