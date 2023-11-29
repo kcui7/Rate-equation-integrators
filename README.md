@@ -89,9 +89,11 @@ Input parameters are:
 
 8. `cB0` (float): initial concentration of B (in mol/L)
 
-9. `cOH0` (float): initial concentration of OH- (in mol/L)
+9. `cH0` (float): initial concentration of H+ (in mol/L)
 
-10. `cR0` (float): initial concentration of R (in mol/L)
+10. `cOH0` (float): initial concentration of OH- (in mol/L)
+
+11. `cR0` (float): initial concentration of R (in mol/L)
 
 To create an instance and integrate `t_tot` time with time step `dt`, write
 ```python
