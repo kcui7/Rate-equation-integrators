@@ -12,7 +12,7 @@ class RateEquationIntegratorTwoState(object):
     OH- comes from water autoprotolysis,
         H2O <==> H+ + OH-
     The forward rate constant kauto = 2.6e-5 s^-1 and backward rate constant kneu = 1.3e11 M^-1s^-1. 
-    Both A and B can react with another molecule M, forming the same product P, these reactions are IRREVERSIBLE
+    Both A and B can react with another molecule R, forming the same product P, these reactions are IRREVERSIBLE
         A + R --> P  k1
         B + R --> P  k2
 
@@ -117,8 +117,8 @@ system = RateEquationIntegratorTwoState(kAB=kp,
                                         k2=kEPT2,
                                         cA0=c0[0],
                                         cB0=c0[1],
-                                        cH0 = cH,
-                                        cOH0 = cOH,
+                                        cH0=cH,
+                                        cOH0=cOH,
                                         cR0=PS0,
                                         )
 
