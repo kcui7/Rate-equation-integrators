@@ -118,4 +118,4 @@ Please refer to **Ref. 1** for the detailed derivation and application of this m
 
 ## Citation
 If you find these kinetic models helpful, please cite the corresponding papers: 
-1. Cui, K.; Soudackov, A. V.; Hammes-Schiffer, S. Modeling the weak pH Dependence of Proton-Coupled Electron Transfer for Tryptophan Derivatives, *J. Phys. Chem. Lett.* In Press. DOI:[10.1021/acs.jpclett.3c02282](https://doi.org/10.1021/acs.jpclett.3c02282)
+1. Cui, K.; Soudackov, A. V.; Hammes-Schiffer, S. Modeling the weak pH Dependence of Proton-Coupled Electron Transfer for Tryptophan Derivatives, *J. Phys. Chem. Lett.* **2023**, *14*, 10980-10987. DOI:[10.1021/acs.jpclett.3c02282](https://doi.org/10.1021/acs.jpclett.3c02282)
